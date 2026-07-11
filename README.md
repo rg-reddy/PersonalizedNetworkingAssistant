@@ -128,16 +128,35 @@ pytest -v
 
 ## Screenshots
 
--   screenshots/environment_setup.png
--   screenshots/project_structure.png
--   screenshots/distilbert_output.png
--   screenshots/gpt2_generation.png
--   screenshots/fact_checker.png
--   screenshots/swagger_ui.png
--   screenshots/backend_running.png
--   screenshots/frontend_home.png
--   screenshots/final_output.png
--   screenshots/github_repo.png
+### Environment Setup
+![Environment Setup](screenshots/environment_setup.png)
+
+### Project Structure
+![Project Structure](screenshots/project_structure.png)
+
+### DistilBERT Output
+![DistilBERT Output](screenshots/distilbert_output.png)
+
+### GPT-2 Generation
+![GPT2 Generation](screenshots/gpt2_generation.png)
+
+### Fact Checker
+![Fact Checker](screenshots/fact_checker.png)
+
+### Swagger UI
+![Swagger UI](screenshots/swagger_ui.png)
+
+### Backend Running
+![Backend Running](screenshots/backend_running.png)
+
+### Frontend Home
+![Frontend Home](screenshots/frontend_home.png)
+
+### Final Output
+![Final Output](screenshots/final_output.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/github_repo.png)
 
 ## Challenges
 
